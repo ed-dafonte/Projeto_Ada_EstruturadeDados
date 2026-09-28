@@ -1,0 +1,11 @@
+Etapa                              Complexidade aproximada 
+  
+Percorrer `dados` e criar objetos                     O(n) 
+Agrupar no `HashMap`                            O(n) médio 
+Insertion Sort                      O(n) ou O(n²)pior caso 
+Calcular saldos                                       O(n)
+
+Melhorias
+Implantar QuickSort
+TreeSet.
+
